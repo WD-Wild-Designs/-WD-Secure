@@ -1,0 +1,2 @@
+0.8.7
+secondlife:///app/teleport/REGION/x/y/z
