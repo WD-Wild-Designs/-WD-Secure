@@ -1,2 +1,2 @@
 0.8.7
-secondlife:///app/teleport/REGION/x/y/z
+secondlife:///app/teleport/Papaya%20Grove/40/106/2451
