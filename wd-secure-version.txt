@@ -1,2 +1,2 @@
-0.8.7
+0.8.8
 secondlife:///app/teleport/Papaya%20Grove/40/106/2451
