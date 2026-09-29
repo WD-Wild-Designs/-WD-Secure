@@ -13,13 +13,9 @@ This repository holds the public **version check file** used by inworld units. P
 - [Owner Guide](https://github.com/jrwild/-WD-Secure/wiki/Owner-Guide)
 - [Updater](https://github.com/jrwild/-WD-Secure/wiki/Updater)
 
-## Version file
+## Permissions
 
-`wd-secure-version.txt` is read by the inworld Update check. Leave it on `main`.
-
-## Permissions (sold unit)
-
-- Object / linkset: Modify / Copy / No Transfer
+- Panel Objects / Orb: Modify / Copy / No Transfer
 - Scripts: Copy / No Modify / No Transfer
 - Do not deed. Group-set only.
 
