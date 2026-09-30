@@ -10,7 +10,7 @@ A fresh approach to security in Second Life. Security Panels by Wild Designs.
 
 Panels are made to look like decor, so they can sit in a home or yard and still watch the land.
 
-It comes ready to rez. It only watches **zones you add**. Until you add a zone, it does not watch anyone.
+It comes ready to rez. It only watches **zones you add**.
 
 ## Start here
 
