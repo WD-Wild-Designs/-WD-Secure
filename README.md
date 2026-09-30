@@ -6,7 +6,11 @@ Current release:<br> :green_circle: **v0.9.2** :green_circle:
 
 The scan stays on your parcel. You can take ban lines down. Flyers can pass over. People who do not belong still get asked to leave, then they are sent away.
 
-It is a **security system, not a security orb**. It comes ready to rez. It only watches **zones you add**. Until you add a zone, it does not watch anyone.
+A fresh approach to security in Second Life. Security Panels by Wild Designs.
+
+Panels are made to look like decor, so they can sit in a home or yard and still watch the land.
+
+It comes ready to rez. It only watches **zones you add**. Until you add a zone, it does not watch anyone.
 
 ## Start here
 
@@ -23,7 +27,7 @@ It is a **security system, not a security orb**. It comes ready to rez. It only 
 | Scripts | Copy / No Modify / No Transfer |
 | Owner HUD | Copy / No Modify / No Transfer |
 
-Modify on the panel is required so the Updater can load new scripts. **Do not deed the unit to a group.** Set it to the parcel group only.
+**Do not deed the unit to a group.** Set it to the parcel group only.
 
 ## Object / chat label
 
