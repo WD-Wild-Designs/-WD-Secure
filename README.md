@@ -79,7 +79,7 @@ Red = Disarmed. Green = Armed. Orange = no eject rights. Yellow = Lockdown (not 
 - Temp Visitor: stays until midnight SLT
 - Restricted: removed and kept off the land
 
-## Docs and shop
+## Docs
 
 Owner documentation lives on the wiki:  
 https://github.com/WD-Wild-Designs/-WD-Secure/wiki
