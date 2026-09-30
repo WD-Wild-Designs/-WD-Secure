@@ -1,23 +1,40 @@
 # [WD] Secure
 
-Wild Designs security system for Second Life. Current release **v0.9.1**.
+Current release:<br> :green_circle: **v0.9.2** :green_circle:
 
-**Short line:** [WD] Secure - Any land. Stays on your parcel. Flyers pass. Strangers leave.
+[WD] Secure watches your land. It can tell what kind of parcel you are on. It turns off tools that would break that land's rules.
 
-This repository holds the public **version check file** used by inworld units. Product manuals live in the [Wiki](https://github.com/WD-Wild-Designs/-WD-Secure/wiki).
+The scan stays on your parcel. You can take ban lines down. Flyers can pass over. People who do not belong still get asked to leave, then they are sent away.
 
-## Docs
+It is a **security system, not a security orb**. It comes ready to rez. It only watches **zones you add**. Until you add a zone, it does not watch anyone.
 
-- [Wiki Home](https://github.com/WD-Wild-Designs/-WD-Secure/wiki)
-- [Quick Start](https://github.com/WD-Wild-Designs/-WD-Secure/wiki/Quick-Start)
-- [Owner Guide](https://github.com/WD-Wild-Designs/-WD-Secure/wiki/Owner-Guide)
-- [Updater](https://github.com/WD-Wild-Designs/-WD-Secure/wiki/Updater)
-- [Changelog](https://github.com/WD-Wild-Designs/-WD-Secure/wiki/Changelog)
+## Start here
 
-## Permissions
+1. [Quick Start](Quick-Start) — Rez it, add one zone, Arm it.
+2. [Owner Guide](Owner-Guide) — Every menu, list, and rule.
+3. [Updater](Updater) — How to load new scripts onto a unit you already own.
+4. [Changelog](Changelog) — What changed in this release.
 
-- Object / linkset: Modify / Copy / No Transfer
-- Scripts: Copy / No Modify / No Transfer
-- Do not deed. Group-set only.
+## Sold permissions
 
-Label: `[WD] Secure` or `[WD] Secure: Feature`
+| Piece | Perms |
+| --- | --- |
+| Panel / linkset | Modify / Copy / No Transfer |
+| Scripts | Copy / No Modify / No Transfer |
+| Owner HUD | Copy / No Modify / No Transfer |
+
+Modify on the panel is required so the Updater can load new scripts. **Do not deed the unit to a group.** Set it to the parcel group only.
+
+## Object / chat label
+
+`[WD] Secure` or `[WD] Secure: Feature`
+
+## What this version does not do
+
+* Adding by key or username works, but Add Near and the arrival box are the sure ways
+* It does not scan the whole region. Parcel only
+* Transfer stays in this region
+* It does not return objects
+* Lockdown is not on Linden Home
+* The parcel ban list is never used on Linden Home
+* New zones cannot be made between 400 m and 2000 m on Linden Home
