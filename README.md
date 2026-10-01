@@ -1,6 +1,6 @@
 # [WD] Secure
 
-Current release:<br> :green_circle: **v0.9.2** :green_circle:
+Current release:<br> :green_circle: **v1.0.1** :green_circle:
 
 Owner docs live on the wiki:
 https://github.com/WD-Wild-Designs/-WD-Secure/wiki
