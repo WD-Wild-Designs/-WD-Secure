@@ -4,14 +4,15 @@ Current release:<br> :green_circle: **v1.0.1** :green_circle:
 
 **Any land. Stays on your parcel. Flyers pass. Strangers leave.**
 
-Wild Designs  
-Quality Furniture, Decor and Scripts / Fair Prices
+
+Wild Designs
+Affordable Quality Furniture, Decor and Gadgets
 
 A fresh approach to security in Second Life. Security Panels by Wild Designs.
 
-[WD] Secure watches your land, warns first, then removes only the people who do not belong. Neighbors and flyers keep the airspace. You keep the parcel.
+[WD] Secure watches your land, warns first, then removes only the people who do not belong. Neighbors and flyers keep the airspace.
 
-It ships as a pre-assembled Panel. Panels are made to look like decor, so they can sit in a home or yard and still watch the land. Same engine.
+It ships as pre-assembled Panels. Panels are made to look like decor, so they can sit in a home or yard and still watch the land. Same engine.
 
 ## Who it is for
 
