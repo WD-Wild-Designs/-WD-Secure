@@ -5,7 +5,7 @@ Current release:<br> :green_circle: **v1.0.1** :green_circle:
 **Any land. Stays on your parcel. Flyers pass. Strangers leave.**
 
 
-Wild Designs
+Wild Designs<br>
 Affordable Quality Furniture, Decor and Gadgets
 
 A fresh approach to security in Second Life. Security Panels by Wild Designs.
