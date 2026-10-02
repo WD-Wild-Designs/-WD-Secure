@@ -80,11 +80,11 @@ Red = Disarmed. Green = Armed. Orange = no eject rights. Yellow = Lockdown (not 
 Owner documentation lives on the wiki:  
 https://github.com/WD-Wild-Designs/-WD-Secure/wiki
 
-In-world shop: Papaya Grove (31, 113, 2451)
+In-world shop: Coming Soon!
 
 ## Locked line
 
-Built for parcel owners who want strangers out of their space without throwing up ban lines. Ban lines punish everyone who flies over. [WD] Secure watches the parcel, a range, or a custom box, warns first, then sends only the people who do not belong.
+Built for parcel owners who want strangers out of their space without putting ban lines up. Ban lines punish everyone who flies over. [WD] Secure watches the parcel, a range, or a custom box, warns first, then sends only the people who do not belong.
 
 Wild Designs  
 [WD] Secure v1.0.1
