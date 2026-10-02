@@ -4,15 +4,14 @@ Current release:<br> :green_circle: **v1.0.1** :green_circle:
 
 **Any land. Stays on your parcel. Flyers pass. Strangers leave.**
 
-
-Wild Designs<br>
+Wild Designs  
 Affordable Quality Furniture, Decor and Gadgets
 
 A fresh approach to security in Second Life. Security Panels by Wild Designs.
 
-[WD] Secure watches your land, warns first, then removes only the people who do not belong. Neighbors and flyers keep the airspace.
+[WD] Secure watches your land, warns first, then removes only the people who do not belong. Neighbors and flyers keep the airspace. You keep the parcel.
 
-It ships as pre-assembled Panels. Panels are made to look like decor, so they can sit in a home or yard and still watch the land. Same engine.
+It ships as a pre-assembled Panel. Panels are made to look like decor, so they can sit in a home or yard and still watch the land. Same engine.
 
 ## Who it is for
 
@@ -36,7 +35,7 @@ It ships as pre-assembled Panels. Panels are made to look like decor, so they ca
 
 ## Linden Home
 
-The Panel stays compliant on Linden Homes.
+The Panel stays compliant on Linden Home.
 
 - Eject only. No Send Home
 - No parcel ban list
@@ -58,14 +57,14 @@ Object / linkset: Modify / Copy / No Transfer
 Scripts: Copy / No Modify / No Transfer  
 Do not deed the Panel. Set it to the parcel group only.
 
-## First few minutes
+## First five minutes
 
 1. Rez the Panel on land you own or can eject from
 2. Touch it
 3. Zones > Add. Make one Range or Custom Zone
 4. Arm
 
-Red = Disarmed. Green = Armed. Orange = no eject rights. Yellow = Lockdown (not on Linden Homes).
+Red = Disarmed. Green = Armed. Orange = no eject rights. Yellow = Lockdown (not on Linden Home).
 
 ## Lists in short
 
@@ -81,11 +80,11 @@ Red = Disarmed. Green = Armed. Orange = no eject rights. Yellow = Lockdown (not 
 Owner documentation lives on the wiki:  
 https://github.com/WD-Wild-Designs/-WD-Secure/wiki
 
-In-world shop: Coming Soon!
+In-world shop: Opening Soon!
 
 ## Locked line
 
-Built for parcel owners who want strangers out of their space without putting ban lines up. Ban lines punish everyone who flies over. [WD] Secure watches the parcel, a range, or a custom box, warns first, then sends only the people who do not belong.
+Built for parcel owners who want strangers out of their space without putting up ban lines. Ban lines punish everyone who flies over. [WD] Secure watches the parcel, a range, or a custom box, warns first, then sends only the people who do not belong.
 
 Wild Designs  
 [WD] Secure v1.0.1
