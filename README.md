@@ -1,10 +1,10 @@
 # [WD] Secure
 
-Current release:<br> :green_circle: **v1.0.1** :green_circle:
+Current release:<br> :green_circle: **v1.5.0** :green_circle:
 
 **Any land. Stays on your parcel. Flyers pass. Strangers leave.**
 
-Wild Designs  
+Wild Designs
 Affordable Quality Furniture, Decor and Gadgets
 
 A fresh approach to security in Second Life. Security Panels by Wild Designs.
@@ -29,9 +29,11 @@ It ships as a pre-assembled Panel. Panels are made to look like decor, so they c
 - Warn, then eject (or teleport home on land that allows it)
 - Access lists: Owner, Leader, Director, Visitor, Temp Visitor, Restricted
 - Arrival box when someone new walks in
+- Visitor log. Last 40 enters. Staff are not logged. Times are SLT
 - Owner Menu HUD
-- Transfer copies lists and zones to another [WD] Secure Panel in the same region
-- In-world Updater for script updates. Lists and zones stay
+- Transfer copies lists, zones, and the visitor log to another [WD] Secure Panel in the same region
+- In-world Updater for script updates. Lists, zones, and the visitor log stay
+- Help on each menu opens the owner wiki
 
 ## Linden Home
 
@@ -52,9 +54,9 @@ The Panel stays compliant on Linden Home.
 - [WD] Secure - Updater
 - Owner Guide and Quick Start
 
-Permissions  
-Object / linkset: Modify / Copy / No Transfer  
-Scripts: Copy / No Modify / No Transfer  
+Permissions
+Object / linkset: Modify / Copy / No Transfer
+Scripts: Copy / No Modify / No Transfer
 Do not deed the Panel. Set it to the parcel group only.
 
 ## First five minutes
@@ -69,7 +71,7 @@ Red = Disarmed. Green = Armed. Orange = no eject rights. Yellow = Lockdown (not 
 ## Lists in short
 
 - Owner: full control
-- Leader: full menus, zones, Update, Transfer
+- Leader: full menus, zones, Visits, Update, Transfer
 - Director: Arm, Access, Lockdown where allowed
 - Visitor: may stay
 - Temp Visitor: stays until midnight SLT
@@ -77,14 +79,14 @@ Red = Disarmed. Green = Armed. Orange = no eject rights. Yellow = Lockdown (not 
 
 ## Docs and shop
 
-Owner documentation lives on the wiki:  
+Owner documentation lives on the wiki:
 https://github.com/WD-Wild-Designs/-WD-Secure/wiki
 
-In-world shop: Opening Soon!
+In-world shop: [Mordreds Crossing (195, 112, 2051)](https://maps.secondlife.com/secondlife/Mordreds%20Crossing/198/112/2051)
 
 ## Locked line
 
-Built for parcel owners who want strangers out of their space without putting up ban lines. Ban lines punish everyone who flies over. [WD] Secure watches the parcel, a range, or a custom box, warns first, then sends only the people who do not belong.
+Built for parcel owners who want strangers out of their space without throwing up ban lines. Ban lines punish everyone who flies over. [WD] Secure watches the parcel, a range, or a custom box, warns first, then sends only the people who do not belong.
 
-Wild Designs  
-[WD] Secure v1.0.1
+Wild Designs
+[WD] Secure v1.5.0
