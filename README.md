@@ -82,7 +82,7 @@ Red = Disarmed. Green = Armed. Orange = no eject rights. Yellow = Lockdown (not 
 Owner documentation lives on the wiki:
 https://github.com/WD-Wild-Designs/-WD-Secure/wiki
 
-In-world shop: [Mordreds Crossing (195, 112, 2051)](https://maps.secondlife.com/secondlife/Mordreds%20Crossing/198/112/2051)
+In-world shop: Coming Soon!
 
 ## Locked line
 
