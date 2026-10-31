@@ -1,17 +1,17 @@
 # [WD] Secure
 
-Current release:<br> :green_circle: **v1.5.0** :green_circle:
+Current release:<br> :green_circle: **v1.5.6** :green_circle:
 
 **Any land. Stays on your parcel. Flyers pass. Strangers leave.**
 
-Wild Designs
+Wild Designs  
 Affordable Quality Furniture, Decor and Gadgets
 
 A fresh approach to security in Second Life. Security Panels by Wild Designs.
 
 [WD] Secure watches your land, warns first, then removes only the people who do not belong. Neighbors and flyers keep the airspace. You keep the parcel.
 
-It ships as a pre-assembled Panel. Panels are made to look like decor, so they can sit in a home or yard and still watch the land. Same engine.
+It ships as a pre-assembled Panel. Panels are made to look like decor, so they can sit in a home or yard and still watch the land.
 
 ## Who it is for
 
@@ -28,12 +28,13 @@ It ships as a pre-assembled Panel. Panels are made to look like decor, so they c
 - Range sphere or Custom Zone (two corner markers)
 - Warn, then eject (or teleport home on land that allows it)
 - Access lists: Owner, Leader, Director, Visitor, Temp Visitor, Restricted
-- Arrival box when someone new walks in
+- Arrival box when someone new walks in (not during Lockdown)
 - Visitor log. Last 40 enters. Staff are not logged. Times are SLT
-- Owner Menu HUD
+- Owner HUD
 - Transfer copies lists, zones, and the visitor log to another [WD] Secure Panel in the same region
 - In-world Updater for script updates. Lists, zones, and the visitor log stay
 - Help on each menu opens the owner wiki
+- Open Airspace on mainland by default. Flyers between 400 m and 2000 m can pass
 
 ## Linden Home
 
@@ -54,10 +55,12 @@ The Panel stays compliant on Linden Home.
 - [WD] Secure - Updater
 - Owner Guide and Quick Start
 
-Permissions
-Object / linkset: Modify / Copy / No Transfer
-Scripts: Copy / No Modify / No Transfer
-Do not deed the Panel. Set it to the parcel group only.
+Permissions  
+Object / linkset: Modify / Copy / No Transfer  
+Scripts: Copy / No Modify / No Transfer  
+Owner HUD: Copy / No Modify / No Transfer  
+
+Do not deed the Panel for normal use. Set it to the parcel group only. Deed only when the land is group owned and you turn Land Ban on. Avatar-owned land never needs a deed. Linden Home has no land ban.
 
 ## First five minutes
 
@@ -66,7 +69,7 @@ Do not deed the Panel. Set it to the parcel group only.
 3. Zones > Add. Make one Range or Custom Zone
 4. Arm
 
-Red = Disarmed. Green = Armed. Orange = no eject rights. Yellow = Lockdown (not on Linden Home).
+The small indicator is the only part that changes color. Red = Disarmed. Green = Armed. Orange = no eject rights. Yellow = Lockdown (not on Linden Home).
 
 ## Lists in short
 
@@ -79,14 +82,16 @@ Red = Disarmed. Green = Armed. Orange = no eject rights. Yellow = Lockdown (not 
 
 ## Docs and shop
 
-Owner documentation lives on the wiki:
+Owner documentation lives on the wiki:  
 https://github.com/WD-Wild-Designs/-WD-Secure/wiki
 
-In-world shop: Coming Soon!
+In-world shop: [Mordreds Crossing 200/113/2051](https://maps.secondlife.com/secondlife/Mordreds%20Crossing/200/113/2051)
+
+To open the shop link in a new tab: Ctrl + click (Cmd + click on a Mac), or middle-click.
 
 ## Locked line
 
 Built for parcel owners who want strangers out of their space without throwing up ban lines. Ban lines punish everyone who flies over. [WD] Secure watches the parcel, a range, or a custom box, warns first, then sends only the people who do not belong.
 
-Wild Designs
-[WD] Secure v1.5.0
+Wild Designs  
+[WD] Secure v1.5.6
